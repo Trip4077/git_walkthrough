@@ -22,4 +22,4 @@
 `git branch -a`
 
 ### Switch Branches
-`git checkout branch-name`asdasd
+`git checkout branch-name`
