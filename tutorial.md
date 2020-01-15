@@ -9,3 +9,6 @@
 
 `git commit -m "Add and Commit Lines Added"`
 
+## Push To GitHub
+
+`git push -u origin master`
